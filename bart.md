@@ -1,0 +1,1 @@
+"How can you trust a man who wears both a belt and suspenders? The man can't even trust his own pants".
