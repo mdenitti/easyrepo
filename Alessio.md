@@ -1,1 +1,1 @@
-First Entry
+Don't be afraid to fart while you pee... there is no rain without thunder.
