@@ -1,0 +1,15 @@
+“Bug-free, your code will be. Debug in VSCode, you must.”
+
+“Extensions, many there are. Overload your VSCode, you will.”
+
+“Keyboard shortcuts, master you must. Save time, they will.”
+
+“Autocomplete, powerful it is. Finish your thoughts, VSCode will.”
+
+“Dark theme, choose wisely you should. Comfort your eyes, it will.”
+
+“Commit your changes often, you should. Afraid of Git, no Jedi is.”
+
+“Tabs many open, chaos this creates. Close what you must, peace to your mind brings.”
+
+“Update VSCode regularly, hmm? Stale plugins, cause errors they do.”
