@@ -1,1 +1,1 @@
-Happiness can be found even in the darkest of times, if one only remembers to to turn on the light
+Happiness can be found even in the darkest of times, if one only remembers to to turn on the light.
